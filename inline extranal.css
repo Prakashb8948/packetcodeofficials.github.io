@@ -1,0 +1,210 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+#div1{
+    opacity: 70%;
+}
+#collapsibleNavbar{
+    margin-left: 120px;
+
+}
+#navbutten1{
+    margin-left: 120px;
+}
+#samp1{
+    font-size: 30px;
+    font-family: cursive;
+}
+.div2{
+    border: 0px solid red;
+    width: 100%;
+    height: 700px;
+    background-image: url(./bootstrap-5.0.2-dist/image/high-angle-shot-beautiful-cityscape-sunset-new-york-city-usa.jpg);
+    background-size: 100% 100%;
+    color:white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#div2sub1{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-family: penguin;
+}
+.div3{
+    border: 0px solid black;
+    width: auto;
+    height: 500px;
+
+}
+#img1{
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    margin-top: 9%;
+    border-radius: 15px;
+}
+#img3{
+    margin-left: 40%;
+}
+#img4{
+ width: 90%;
+ height: 90%;
+ margin-left: 5%;
+ 
+}
+.div4{
+    border: 0px solid black;
+    width: 100%;
+    height:5%;
+}
+#div4p1{
+    float: left;
+    margin-left: 10%;
+}
+#hr1{
+    width: 15%;
+    float: left;
+    height: 3px;
+    color: yellow;
+}
+.div5{
+    border: 0px solid black;
+    width: 100%;
+    height: 50px;
+    float: left;
+    margin-top: -20px;
+}
+#div5h3{
+    margin-left: 10%;
+}
+.div6{
+    border: 0px solid black;
+    height: 650px;
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+#col1{
+    text-align: center;
+}
+.cta {
+    color: white;
+    background-size: cover;
+    padding: 60px 0;
+    background-image: url(./bootstrap-5.0.2-dist/image/szechenyi-chain-bridge-g1edf2dc40_1920.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+#ctabutten{
+    border-color: white;
+    color: white;
+}
+#buttons{
+    border-left: hidden;
+    border-right: hidden;
+    border-top: hidden;
+    border-bottom: hidden;
+    color: black;
+}
+.div7{
+    border: 0px solid black;
+    width: 100%;
+    height: 800px;
+    margin-top: 2%;
+}
+#div7img1{
+    width: 30%;
+    height: 60%;
+    margin-left: 5%;
+}
+#div7img2{
+    width: 32%;
+    height: 50%;
+}
+#div7img3{
+    width: 30%;
+    height: 50%;
+}
+#div7img4{
+    width: 35%;
+    margin-left: 5%;
+}
+#div7img5{
+    width: 35%;
+    height: 40%;
+}
+#div7img6{
+    width: 20%;
+    height: 30%;
+}
+#div8img1{
+    width: 100%;
+    height: 100%;
+}
+
+.div9{
+    border: 0px solid black;
+    width: 100%;
+    height: 60%;
+    margin-top: 5%;
+    background-image: url(./bootstrap-5.0.2-dist/image/skyscrapers-from-low-angle-view.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+}
+#carouselExampleCaptions{
+    text-align: center;
+    opacity: 60%;
+    margin-top: 5%;
+}
+.div10{
+    border: 0px solid blue;
+    width: 100%;
+    height: 80%;
+    margin-top: 5%;
+}
+.map-container-3{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container-3 iframe{
+    left:0;
+    top:0;
+    height:50%;
+    width:100%;
+    margin-top: 1%;
+    position:absolute;
+  }
+  #map{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .map1{
+    border: 0px solid black;
+    width: 100%;
+    height: 65%;
+    margin-top: 4%;
+  }
+  .div11{
+    border: 0px solid black;
+    width: 100%;
+    height: 70%;
+  }
+  #div11box1{
+    margin-left: 9%;
+  }
+.fooder{
+    background-color: black;
+
+}
